@@ -1,0 +1,41 @@
+body{
+background-color: aquamarine;
+height: 900px
+}
+
+.heading1{
+    text-align: center;
+    font-size: 55px;
+    font-weight: bold;
+}
+.para_head{
+    font-size: 15PX;
+    text-align: center;
+
+}
+
+.heading2{
+    color: aliceblue;
+    font-weight: bold;
+    text-align: center;
+    font-size: 35px;
+}
+.container{
+    margin-top: 20px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    background-color:rgb(53, 221, 165);
+    padding: 20px;
+    margin: auto;
+    width: 80%;
+    box-shadow: 10px 10px 5px rgb(222, 222, 9);
+    width: fit-content;
+}
+.cardcontainer{
+ 
+}
+.para_cardcontainer{
+    font-size: 15px;
+    padding: 8px;
+}
